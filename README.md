@@ -1,7 +1,11 @@
 # Outdoor Playground Design
-Custom Robinia ship design.jpg
 ## Overview
 Welcome to our repository dedicated to Outdoor Playground Design! 
+## Custom Robinia Ship Design
+
+![Custom Robinia Ship Design](https://github.com/Sketchplay-Playground-Architects/outdoor-playground-design/blob/main/images/Custom%20Robinia%20ship%20design.jpg)
+
+This custom Robinia ship design demonstrates our commitment to creating imaginative and engaging play spaces. Our team blends natural materials with innovative design to craft unique playground experiences that spark creativity and ensure safety.
 
 ### Highlights:
 - **Concepts**: Detailed descriptions and visual examples of our design concepts.
