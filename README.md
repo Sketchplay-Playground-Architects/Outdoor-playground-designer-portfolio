@@ -2,6 +2,7 @@
 ## Overview
 Welcome to our repository dedicated to Outdoor Playground Design! 
 ## Custom Robinia Ship Design
+https://github.com/username/repository/raw/branch/path/to/image.jpg
 
 ![Custom Robinia Ship Design](https://github.com/Sketchplay-Playground-Architects/outdoor-playground-design/blob/main/images/Custom%20Robinia%20ship%20design.jpg)
 
