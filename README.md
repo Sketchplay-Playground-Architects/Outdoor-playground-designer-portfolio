@@ -1,7 +1,7 @@
-# Outdoor Playground Design
+# Outdoor Playground Designs
 
 ## Overview
-Welcome to our repository dedicated to Outdoor Playground Design! Here, you'll find a range of innovative designs and concepts that showcase our commitment to creating vibrant, safe, and engaging play spaces.
+Welcome to our GITHUB gallery page:  Outdoor Playground Designs Here, you'll find a range of organic playground designs using handmade or natural products. The concepts that we showcase portray our commitment to creating stumlating, safe, and engaging play spaces.
 
 ## Custom Robinia Ship Design
 ![Custom Robinia Ship Design](https://github.com/Sketchplay-Playground-Architects/outdoor-playground-design/blob/main/Custom%20Robinia%20ship%20design.jpg)
